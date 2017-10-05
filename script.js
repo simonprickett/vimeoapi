@@ -1,7 +1,7 @@
 var vimeoDemo = {
 	getVideosForUser: function(userId) {
 		JSONP.get(
-			'http://vimeo.com/api/v2/' + userId + '/videos.json',
+			'https://vimeo.com/api/v2/' + userId + '/videos.json',
 			{},
 			vimeoDemo.processVideos
 		);
