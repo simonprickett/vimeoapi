@@ -1,0 +1,17 @@
+#featurevideo {
+	border-color: #000000;
+	border-width: 3px;
+	border-radius: 5px;
+	padding: 5px;
+	background-color: #FF0000;
+	color: #000000;
+}
+
+.video {
+	margin-left: 10px;
+	border-width: 3px;
+	border-radius: 5px;
+	padding: 10px;
+	background-color: #DDDDDD;
+	margin: 10px;
+}
